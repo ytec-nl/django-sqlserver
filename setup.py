@@ -14,7 +14,7 @@ def find_version(*file_paths):
 
 
 setup(
-    name="django-sqlserver",
+    name="ytec-django-sqlserver",
     version=find_version("sqlserver", "__init__.py"),
     url='https://github.com/denisenkom/django-sqlserver',
     license='MIT',
